@@ -1,0 +1,2 @@
+# magnet
+Online Magazine Platform
